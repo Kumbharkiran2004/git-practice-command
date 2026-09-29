@@ -1,0 +1,12 @@
+ git status
+  845  git add .
+  846  git status
+  847  git rm testing.py
+  850  git status
+  851  git rm --cached testing.py
+  852  git status
+  853  git commit -m "traked file"
+  854  git add testing.py
+  857  git status
+  858  git restore testing.py
+  859  git status
