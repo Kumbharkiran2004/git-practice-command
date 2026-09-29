@@ -15,6 +15,5 @@
   868  git remote sei-url origin
   869  git remote set-url origin http://token@github.com/Kumbharkiran2004/git-practice-command.git
   870  git remote -v
-  871  git push origin master
-  872  pwd
+  871  git push origin master       # 
   873  git push origin main
