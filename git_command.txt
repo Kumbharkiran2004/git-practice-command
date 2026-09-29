@@ -10,3 +10,11 @@
   857  git status
   858  git restore testing.py
   859  git status
+  866  git remote add origin https://github.com/Kumbharkiran2004/git-practice-command.git
+  867  git push origin master
+  868  git remote sei-url origin
+  869  git remote set-url origin http://token@github.com/Kumbharkiran2004/git-practice-command.git
+  870  git remote -v
+  871  git push origin master
+  872  pwd
+  873  git push origin main
