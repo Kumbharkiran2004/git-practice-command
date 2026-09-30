@@ -17,3 +17,20 @@
   870  git remote -v
   871  git push origin master       # 
   873  git push origin main
+
+922  git fetch
+  923  git branch
+  924  git pull
+  925  git branch
+  926  git pull branch
+  927  git pull origin branch
+  928  git pull origin main
+  929  git branch
+  930  git fetch
+  931  git pull
+  932  git status
+  933  git branch
+  934  cd main
+  935  git fetch origin\ngit branch -r
+  936  git switch -c shubham --track origin/shubham
+  937  git branch
