@@ -1,0 +1,36 @@
+ git status
+  845  git add .
+  846  git status
+  847  git rm testing.py
+  850  git status
+  851  git rm --cached testing.py
+  852  git status
+  853  git commit -m "traked file"
+  854  git add testing.py
+  857  git status
+  858  git restore testing.py
+  859  git status
+  866  git remote add origin https://github.com/Kumbharkiran2004/git-practice-command.git
+  867  git push origin master
+  868  git remote sei-url origin
+  869  git remote set-url origin http://token@github.com/Kumbharkiran2004/git-practice-command.git
+  870  git remote -v
+  871  git push origin master       # 
+  873  git push origin main
+
+922  git fetch
+  923  git branch
+  924  git pull
+  925  git branch
+  926  git pull branch
+  927  git pull origin branch
+  928  git pull origin main
+  929  git branch
+  930  git fetch
+  931  git pull
+  932  git status
+  933  git branch
+  934  cd main
+  935  git fetch origin\ngit branch -r
+  936  git switch -c shubham --track origin/shubham
+  937  git branch
